@@ -1,0 +1,2 @@
+echo "FROM BASHRC"
+PS1="bashrc-> ";
